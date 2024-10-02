@@ -22,6 +22,9 @@ This PowerShell script is designed to analyze and filter emails based on their s
 ## Customization
 Make sure to customize the script by replacing `@domain.com` with your actual domain name to accurately filter internal and external emails.
 
+## Customizing Paths
+To ensure the script saves the output files to the correct locations on your system, you need to customize the file paths. You MUST change these paths to any directory of your choice.
+
 ## Usage
 
 1. Open PowerShell and navigate to the directory where the script is located.
