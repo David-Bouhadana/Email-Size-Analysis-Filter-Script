@@ -1,3 +1,12 @@
+<#
+\\\\\!!!!!/////=====================================================================\\\\\!!!!!/////
+Name:           M365 Emails analysis with size and filter
+Description:    This script analyse email size from inside, inside to outside and outside to inside
+website:        https://oghmasite.wordpress.com/
+Script by:      David Bouhadana
+\\\\\!!!!!/////=====================================================================\\\\\!!!!!/////
+#>
+
 # Install the ExchangeOnlineManagement module if necessary
 # Install-Module -Name ExchangeOnlineManagement
 
