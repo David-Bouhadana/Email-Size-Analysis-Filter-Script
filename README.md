@@ -101,7 +101,7 @@ To ensure the script saves the output files to the correct locations on your sys
 
 Script written by **David Bouhadana**.
 
-- Blog: [Oghma Site](https://oghmasite.wordpress.com/)
+- Blog: [M365 journey](https://m365journey.blog/)
 
 ## License
 
